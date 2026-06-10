@@ -120,22 +120,22 @@ The deployed Flask application allows users to enter applicant details and recei
 
 ## Home Page
 
-![Home Page]<img width="1856" height="1017" alt="ss1" src="https://github.com/user-attachments/assets/1cc8277a-2b0f-4ae7-ab08-ef2fe5115610" />
+<img width="1856" height="1017" alt="ss1" src="https://github.com/user-attachments/assets/1cc8277a-2b0f-4ae7-ab08-ef2fe5115610" />
 
 
 ## Sample Input
 
-![Sample Input]<img width="1857" height="1002" alt="ss2" src="https://github.com/user-attachments/assets/983b0605-f536-4fc1-af1d-bb402727c7d4" />
+<img width="1857" height="1002" alt="ss2" src="https://github.com/user-attachments/assets/983b0605-f536-4fc1-af1d-bb402727c7d4" />
 
 
 ## Loan Approved Prediction
 
-![Loan Approved]<img width="1852" height="1011" alt="ss5" src="https://github.com/user-attachments/assets/77a9b98a-bfbd-4d49-9d55-48dc9e81f9b5" />
+<img width="1852" height="1011" alt="ss5" src="https://github.com/user-attachments/assets/77a9b98a-bfbd-4d49-9d55-48dc9e81f9b5" />
 
 
 ## Loan Rejected Prediction
 
-![Loan Rejected]<img width="1851" height="1008" alt="ss3" src="https://github.com/user-attachments/assets/e085b8c8-b05f-4f80-a9a8-e1aeb7c93208" />
+<img width="1851" height="1008" alt="ss3" src="https://github.com/user-attachments/assets/e085b8c8-b05f-4f80-a9a8-e1aeb7c93208" />
 
 
 ---
