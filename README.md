@@ -1,4 +1,4 @@
-# Loan Approval Prediction using Machine Learning
+#ML-Classification-Loan Approval Prediction using Machine Learning
 
 A supervised machine learning project that predicts whether a loan application will be approved or rejected based on applicant details such as income, education, employment status, CIBIL score, loan amount, and asset information.
 
